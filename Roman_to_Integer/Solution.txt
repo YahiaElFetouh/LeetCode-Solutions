@@ -23,8 +23,6 @@ class Solution {
             }
             prev = current;
         }
-
-        return sum;
-    }
-       
+	return sum;
+    }   
 }
