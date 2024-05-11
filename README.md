@@ -1,1 +1,1 @@
-I will be posting by solutions to LeetCode problems in this repository
+Solutions to LeetCode problems will be included in this repository
